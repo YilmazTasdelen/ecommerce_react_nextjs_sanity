@@ -1,3 +1,15 @@
+# React-NextJS-Sanity ecommerce app 
+<br/>
+
+<h4>deployed to: <br/> https://ecommerce-react-nextjs-sanity.vercel.app/</h4>
+<img src="./ss/home.png" width="850" title="home"><br/><br/>
+<img src="./ss/homeFooter.png" width="850" title="home"><br/><br/>
+<img src="./ss/cart1.png" width="850" title="home"><br/><br/>
+<img src="./ss/cart2.png" width="850" title="home"><br/><br/>
+<img src="./ss/product.png" width="850" title="home"><br/><br/>
+<img src="./ss/product2.png" width="850" title="home"><br/><br/>
+<img src="./ss/success.png" width="850" title="home"><br/><br/>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
